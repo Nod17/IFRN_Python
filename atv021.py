@@ -5,8 +5,7 @@ n3 = float(input("Digite o terceiro numero: "))
 maior=n1
 
 if (n2 >= maior):
-        maior = n2
-        
+        maior = n2        
 if (n3 >= maior):
             maior = n3
         
