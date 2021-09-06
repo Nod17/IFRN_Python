@@ -59,6 +59,7 @@ print(df)
 df.to_csv('out.csv')
 
 '''
+Exemplo de saida:
 Host,Os,Method,Access,Code,Bytes
 83.149.9.216,Mac,GET,Manhã,200,203023
 100.149.9.216,Windows,GET,Manhã,200,171717
